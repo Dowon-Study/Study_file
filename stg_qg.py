@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # 한글폰트 설정, 그래프 마이너스 표시 설정
 import matplotlib
 from matplotlib import font_manager, rc
-
+ 
 matplotlib.rcParams['axes.unicode_minus'] = False
 
 # 종목코드와 종목명 가져오기

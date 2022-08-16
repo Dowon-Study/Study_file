@@ -3,7 +3,7 @@ def wow(a, b):
         return int(a)
     if (len(a) == 2):
         return int(a)
-    sum = 0
+    sum = 0 
     b = int(b)
     su = ""
     for i in a:

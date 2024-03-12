@@ -5,7 +5,7 @@ def wow(a, b):
         return int(a)
     sum = 0 
     b = int(b)
-    su = ""
+    su = "" 
     for i in a:
         if (48 <= ord(i) <= 57):
             su += i

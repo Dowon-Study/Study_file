@@ -12,7 +12,7 @@
                 background-color: #EEEEE0;
                 margin: 7%;
                 margin-left: 27%;
-                height: 500px;
+                height: 500px; 
                 box-shadow:;
                 box-shadow: 10px 10px 30px black;
                 position: relative;

@@ -4,7 +4,7 @@ class Rsi:
     def __init__(self):
         self.data = yf.download('005930.KS', start='2010-01-01')
         self.data_list = []
-        self.first_data = 0
+        self.first_data = 0 
         self.AU = 0
         self.AD = 0
         self.RSI = 0

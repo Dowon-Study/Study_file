@@ -2,7 +2,7 @@
 
     session_start();
     session_unset();  
-    session_destroy(); 
+    session_destroy();  
     
     Header("Location:main_scr.php");
 ?>
